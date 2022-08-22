@@ -5,10 +5,8 @@ import js.lib.Map;
 
 class Client {
 	static function main() {
-		Moralis.start({serverUrl: 'https://pjdqdsfav5ky.usemoralis.com:2053/server', appId: 'k1JfXbI31nN8g46veG941hlSsy8YOPB8k9QjKpzy'});
-
-		final serverUrl = 'https://pjdqdsfav5ky.usemoralis.com:2053/server';
-		final appId = 'k1JfXbI31nN8g46veG941hlSsy8YOPB8k9QjKpzy';
+		// Use your own
+		Moralis.start({serverUrl: '', appId: ''});
 
 		var metamaskLogin = Browser.document.createButtonElement();
 		metamaskLogin.textContent = "Login!";
