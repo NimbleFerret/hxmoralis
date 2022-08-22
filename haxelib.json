@@ -13,6 +13,7 @@
     ],
     "description": "Externs for Moralis-JS-SDK",
     "version": "0.0.1",
+    "releasenote": "First working version",
     "contributors": [
         "NimbleFerret"
     ]
