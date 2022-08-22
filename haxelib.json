@@ -4,12 +4,12 @@
     "url": "https://github.com/NimbleFerret/hxmoralis",
     "license": "MIT",
     "tags": [
-        "js",
-        "node",
         "web3",
         "eth",
         "blockchain",
-        "moralis"
+        "moralis",
+        "js",
+        "node"
     ],
     "description": "Externs for Moralis-JS-SDK",
     "version": "0.0.1",
